@@ -1,6 +1,6 @@
 # Group brief — Journal of Open Humanities Data — every paper
 
-**Your dataset:** `data.csv` / `data.xlsx` — 365 rows, 9 columns.
+**Your dataset:** `data.csv` / `data.xlsx` — 365 rows, 6 columns.
 **One row is** one data paper published in JOHD.
 
 JOHD publishes short papers describing reusable humanities datasets. This is the journal's whole output as metadata: who publishes data papers, on what, from where, and what gets cited. A dataset about datasets.

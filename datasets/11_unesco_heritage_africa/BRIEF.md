@@ -1,6 +1,6 @@
 # Group brief — UNESCO World Heritage sites in Africa
 
-**Your dataset:** `data.csv` / `data.xlsx` — 115 rows, 12 columns.
+**Your dataset:** `data.csv` / `data.xlsx` — 115 rows, 10 columns.
 **One row is** one inscribed World Heritage site.
 
 World Heritage sites in the UNESCO Africa region, with the year they were inscribed, coordinates, category and whether they are listed as in danger. Small enough to read end to end, which makes it good for careful work.

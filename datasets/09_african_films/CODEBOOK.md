@@ -19,7 +19,7 @@ Every film Wikidata records as originating in an African country, with year, gen
 | `title` | text | Film title, English label | 0.0 | 5,519 | Dakara - The confession of a thug |
 | `country` | text | Country of origin | 0.0 | 65 | Madagascar |
 | `year` | whole number | Year of publication, where recorded | 11.0 | 108 | 2020 |
-| `genre` | text | Genres, semicolon-separated | 0.0 | 409 | crime film; drama film; thriller film |
+| `genre` | text | Genres, semicolon-separated | 0.0 | 410 | crime film; drama film; thriller film |
 | `director` | text | Directors, semicolon-separated | 0.0 | 1,869 | Lemena Vintsy |
 
 ## What was done to the source data

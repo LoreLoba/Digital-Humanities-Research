@@ -190,8 +190,8 @@ Q107997357,Great lantern of al-Mu'izz (Raqqada B Z 501),Zirid Dynasty,Raqqada Na
 Q107998375,Aghlabid dinar (Raqqada M 200),Aghlabids,Raqqada National Museum of Islamic Art,808
 Q107998577,Nurse's Qur'an,Zirid Dynasty,Metropolitan Museum of Art,1020
 Q107998577,Nurse's Qur'an,Zirid Dynasty,Museum of Islamic Art,1020
-Q107998577,Nurse's Qur'an,Zirid Dynasty,Raqqada National Museum of Islamic Art,1020
 Q107998577,Nurse's Qur'an,Zirid Dynasty,David Collection,1020
+Q107998577,Nurse's Qur'an,Zirid Dynasty,Raqqada National Museum of Islamic Art,1020
 Q108000198,Nurse's Qur'an (Mushaf al-Hadina) (Raqqada P 227),Zirid Dynasty,Raqqada National Museum of Islamic Art,1020
 Q108000962,Frieze with calligraphy (Raqqada MR 010),Zirid Dynasty,Raqqada National Museum of Islamic Art,1100
 Q108006448,Aghlabid inkwell (Raqqada Stc 005),Aghlabids,Raqqada National Museum of Islamic Art,900
@@ -218,12 +218,12 @@ Q108474220,Alphabet Book (Elif-Ba cüzü) by Mustafa Vasıf (SSM 190-0410),Ottom
 Q108512188,Juz' 27 of the Mamluk Qur'an (CBL Is 1476),Mamluk Sultanate of Egypt,Chester Beatty Library,1330
 Q108516889,Hilye-i Şerif by Mehmed Şefik (SSM 140-0093),Ottoman Empire,Sakıp Sabancı Museum,1850
 Q108537178,Single-volume Qur'an (TIEM 224),Ottoman Empire,Turkish and Islamic Arts Museum,1517
-Q108543136,Siyer-i Nebi,Ottoman Empire,Topkapı Palace,1590
 Q108543136,Siyer-i Nebi,Ottoman Empire,"Museum of Fine Arts, Houston",1590
 Q108543136,Siyer-i Nebi,Ottoman Empire,Metropolitan Museum of Art,1590
+Q108543136,Siyer-i Nebi,Ottoman Empire,Topkapı Palace,1590
 Q108543136,Siyer-i Nebi,Ottoman Empire,New York Public Library,1590
-Q108543136,Siyer-i Nebi,Ottoman Empire,Nasser D. Khalili Collection of Islamic Art,1590
 Q108543136,Siyer-i Nebi,Ottoman Empire,Chester Beatty Library,1590
+Q108543136,Siyer-i Nebi,Ottoman Empire,Nasser D. Khalili Collection of Islamic Art,1590
 Q108544630,Ferman (imperial decree) of Sultan Mehmed II (SSM 150-0165),Ottoman Empire,Sakıp Sabancı Museum,1459
 Q108551528,Third juz' of an Ottoman Qur'an (SSM 102-0047),Ottoman Empire,Sakıp Sabancı Museum,1440
 Q108551657,Qur'an from the times of the Suleiman the Magnificent (SSM 100-0056),Ottoman Empire,Sakıp Sabancı Museum,1560
@@ -257,12 +257,12 @@ Q109905629,Abu Naddara,Khedivate of Egypt,Library of the Arab World Institute,18
 Q109905629,Abu Naddara,Khedivate of Egypt,Bibliothèque nationale de France,1877
 Q110129794,Or ha-Ma'arav,Morocco,National Library of Israel,1922
 Q110165321,Qur'an copied by Shadhi ibn Muhammad ibn Ayyub,Mamluk Sultanate of Egypt,Freer Gallery of Art,1313
-Q110165321,Qur'an copied by Shadhi ibn Muhammad ibn Ayyub,Mamluk Sultanate of Egypt,Museum of Fine Arts Boston,1313
 Q110165321,Qur'an copied by Shadhi ibn Muhammad ibn Ayyub,Mamluk Sultanate of Egypt,Turkish and Islamic Arts Museum,1313
+Q110165321,Qur'an copied by Shadhi ibn Muhammad ibn Ayyub,Mamluk Sultanate of Egypt,Museum of Fine Arts Boston,1313
 Q110189681,Sultan Sha'ban Qur'an (National Library of Egypt Masahif Rasid 10),Mamluk Sultanate of Egypt,The National Library of Egypt's Collection of Mamluk Qur'an Manuscripts,1370
-Q110228306,Qur'an in Tumar Script,Mamluk Sultanate of Egypt,Kunstbibliothek Berlin,1300
 Q110228306,Qur'an in Tumar Script,Mamluk Sultanate of Egypt,Chester Beatty Library,1300
 Q110228306,Qur'an in Tumar Script,Mamluk Sultanate of Egypt,Museum of Fine Arts Boston,1300
+Q110228306,Qur'an in Tumar Script,Mamluk Sultanate of Egypt,Kunstbibliothek Berlin,1300
 Q110257154,Mamluk Qur'an Box (I. 886),Mamluk Sultanate of Egypt,Museum of Islamic Art,1330
 Q110301692,Sultan Barquq’s Qur’an,Mamluk Sultanate of Egypt,Los Angeles County Museum of Art,1370
 Q110301692,Sultan Barquq’s Qur’an,Mamluk Sultanate of Egypt,British Library,1370
@@ -288,8 +288,8 @@ Q116242991,Qur'an Manuscript,Ottoman Empire,Metropolitan Museum of Art,1500
 Q116275343,Futuh al-Haramain (Description of the Holy Cities),Ottoman Empire,Metropolitan Museum of Art,1550
 Q117100889,bronze plate with high relief,Benin Empire,Museum Natur und Mensch (Freiburg im Breisgau),1600
 Q117191193,A lion attacking a deer,Ottoman Empire,British Museum,1600
-Q117241993,Flask,Fatimid Caliphate,Dallas Museum of Art,1025
 Q117241993,Flask,Fatimid Caliphate,The Keir Collection of Islamic Art,1025
+Q117241993,Flask,Fatimid Caliphate,Dallas Museum of Art,1025
 Q118289287,Lion of Merelani,Tanzania,National Museum of Natural History,
 Q118629610,Wa Amu People,Kenya,Lamu Fort  Library,
 Q1186970,Temple of Dendur,Egypt,Metropolitan Museum of Art,-1
@@ -306,20 +306,20 @@ Q12192140,Al-Mu'ayyad,Egypt,Nami Jafet Memorial Library,1889
 Q12192140,Al-Mu'ayyad,Egypt,British Library,1889
 Q12192140,Al-Mu'ayyad,Egypt,State Library of Berlin (Westhafenspeicher),1889
 Q12192140,Al-Mu'ayyad,Egypt,State Library of Berlin (Haus Unter den Linden),1889
-Q12192140,Al-Mu'ayyad,Egypt,Internet Archive,1889
 Q12192140,Al-Mu'ayyad,Egypt,Hoover Institution Library and Archives,1889
 Q12192140,Al-Mu'ayyad,Egypt,İstanbul University Central Library,1889
-Q12193626,al-Muqtabas,Ottoman Empire,Oriental Library,1906
+Q12192140,Al-Mu'ayyad,Egypt,Internet Archive,1889
 Q12193626,al-Muqtabas,Ottoman Empire,Alsharekh Archive,1906
-Q12193626,al-Muqtabas,Ottoman Empire,Cambridge University Library,1906
 Q12193626,al-Muqtabas,Ottoman Empire,Nami Jafet Memorial Library,1906
+Q12193626,al-Muqtabas,Ottoman Empire,Cambridge University Library,1906
+Q12193626,al-Muqtabas,Ottoman Empire,Oriental Library,1906
 Q12193626,al-Muqtabas,Ottoman Empire,National Library of Israel,1906
 Q12193626,al-Muqtabas,Ottoman Empire,Al-Aqsa Library,1906
 Q12193626,al-Muqtabas,Ottoman Empire,University of Virginia,1906
 Q12193626,al-Muqtabas,Ottoman Empire,Internet Archive,1906
 Q12193626,al-Muqtabas,Ottoman Empire,Princeton University Library,1906
-Q12205272,Al-Mokattam,Egypt,"Middle East Centre Library, St Antony's College, Oxford",1889
 Q12205272,Al-Mokattam,Egypt,Nami Jafet Memorial Library,1889
+Q12205272,Al-Mokattam,Egypt,"Middle East Centre Library, St Antony's College, Oxford",1889
 Q12205272,Al-Mokattam,Egypt,British Library,1889
 Q12205272,Al-Mokattam,Egypt,Orient-Institut Beirut,1889
 Q12205272,Al-Mokattam,Egypt,National Library of Israel,1889
@@ -661,8 +661,8 @@ Q127955370,Small bowl with molded relief decoration,Egypt,The Keir Collection of
 Q128275685,Aşıyan,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1908
 Q128276111,Güneş,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1927
 Q128276122,Hadika,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1870
-Q128276187,Hazine-i Fünun,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1885
 Q128276187,Hazine-i Fünun,Ottoman Empire,Nami Jafet Memorial Library,1885
+Q128276187,Hazine-i Fünun,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1885
 Q128276516,Mecmua-ı Muallim,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1887
 Q128276636,Muhibban,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1909
 Q130861035,Stèle de Ken et Renenoutet,Egypt,Aquitaine Museum,
@@ -675,14 +675,14 @@ Q130863860,Statue d'un cobra dressé,Egypt,Aquitaine Museum,
 Q130864127,Reliquaire orné d'une statuette de faucon couronnée du pschent,Egypt,Aquitaine Museum,
 Q130864417,Statuette d'un dieu faucon couronné d'un disque solaire,Egypt,Aquitaine Museum,
 Q130866557,Statuette de Bès ithyphallique,Egypt,Musée d’Archéologie Méditerranéenne,
-Q13141732,Rawdat Al Madaris,Khedivate of Egypt,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1870
 Q13141732,Rawdat Al Madaris,Khedivate of Egypt,Nami Jafet Memorial Library,1870
-Q13141732,Rawdat Al Madaris,Khedivate of Egypt,University of Virginia,1870
-Q13141732,Rawdat Al Madaris,Khedivate of Egypt,Bamberg University Library,1870
+Q13141732,Rawdat Al Madaris,Khedivate of Egypt,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1870
 Q13141732,Rawdat Al Madaris,Khedivate of Egypt,Bavarian State Library,1870
+Q13141732,Rawdat Al Madaris,Khedivate of Egypt,Bamberg University Library,1870
+Q13141732,Rawdat Al Madaris,Khedivate of Egypt,University of Virginia,1870
 Q13141732,Rawdat Al Madaris,Khedivate of Egypt,Egyptian National Library and Archives,1870
-Q13141732,Rawdat Al Madaris,Khedivate of Egypt,Ohio State University Libraries,1870
 Q13141732,Rawdat Al Madaris,Khedivate of Egypt,Durham University Library and Collections,1870
+Q13141732,Rawdat Al Madaris,Khedivate of Egypt,Ohio State University Libraries,1870
 Q13141732,Rawdat Al Madaris,Khedivate of Egypt,University of Washington Libraries,1870
 Q132137746,Carved headdress from Mankon (Cameroon) in form of a buffalo head,Kamerun,Ethnological Museum Berlin,
 Q132192434,Statue of Nectanebo I (M.A.N. 1978/71/1),Egypt,National Museum of Archaeology,0
@@ -690,8 +690,8 @@ Q133214943,KTIV990001497790205171,Egypt,Alliance Israélite Universelle,1675
 Q133264508,Ceremonial sword from Bafut,Kamerun,Städtisches Museum Braunschweig,
 Q134395580,Rosewater Sprinkler,Ottoman Empire,Nasser D. Khalili Collection of Islamic Art,1800
 Q134589317,Plaque from an etana,Cameroon,Linden Museum,
-Q134609340,Şekaiku'n-Nu'mâniye,Ottoman Empire,bibliographic database,
 Q134609340,Şekaiku'n-Nu'mâniye,Ottoman Empire,archives,
+Q134609340,Şekaiku'n-Nu'mâniye,Ottoman Empire,bibliographic database,
 Q134609340,Şekaiku'n-Nu'mâniye,Ottoman Empire,archival collection,
 Q136203155,Tibati regalia,Cameroon,Übersee-Museum Bremen,
 Q136416838,Female sculpture with bowl,Cameroon,Ethnological Museum Berlin,
@@ -722,79 +722,79 @@ Q1538018,Xala,Senegal,Museum of Modern Art,
 Q15510197,Balawat Gates,Assyrian Empire,British Museum,-85
 Q15749384,Bulletin de l'Institut d'Égypte,Egypt,National Library of Israel,
 Q15788627,Painting of Lady Tjepu,Ancient Egypt,Brooklyn Museum,1390
-Q15856582,Al-Hilal,Egypt,"Universität Freiburg, Orientalisches Seminar, Bibliothek",1892
-Q15856582,Al-Hilal,Egypt,Cambridge University Library,1892
-Q15856582,Al-Hilal,Egypt,Alsharekh Archive,1892
-Q15856582,Al-Hilal,Egypt,State Library of Berlin (Haus Potsdamer Straße),1892
-Q15856582,Al-Hilal,Egypt,Nami Jafet Memorial Library,1892
-Q15856582,Al-Hilal,Egypt,"University of California, Berkeley",1892
 Q15856582,Al-Hilal,Egypt,Thuringian State and University Library,1892
-Q15856582,Al-Hilal,Egypt,"Ruhr-Universität Bochum, Fakultät für Philologie, Seminar für Orientalistik, Bibliothek",1892
-Q15856582,Al-Hilal,Egypt,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1892
+Q15856582,Al-Hilal,Egypt,State Library of Berlin (Haus Potsdamer Straße),1892
+Q15856582,Al-Hilal,Egypt,Oriental Library,1892
+Q15856582,Al-Hilal,Egypt,"University of California, Berkeley",1892
 Q15856582,Al-Hilal,Egypt,"Universitäts- und Landesbibliothek Sachsen-Anhalt, Zweigbibliothek Vorderer Orient / Ethnologie",1892
+Q15856582,Al-Hilal,Egypt,Cambridge University Library,1892
+Q15856582,Al-Hilal,Egypt,Library of Congress,1892
+Q15856582,Al-Hilal,Egypt,"Universität Freiburg, Orientalisches Seminar, Bibliothek",1892
+Q15856582,Al-Hilal,Egypt,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1892
+Q15856582,Al-Hilal,Egypt,Nami Jafet Memorial Library,1892
+Q15856582,Al-Hilal,Egypt,"Ruhr-Universität Bochum, Fakultät für Philologie, Seminar für Orientalistik, Bibliothek",1892
+Q15856582,Al-Hilal,Egypt,Alsharekh Archive,1892
 Q15856582,Al-Hilal,Egypt,"Seminar für Sprachen und Kulturen des Vorderen Orients, Bibliothek",1892
 Q15856582,Al-Hilal,Egypt,"Middle East Centre Library, St Antony's College, Oxford",1892
-Q15856582,Al-Hilal,Egypt,Library of Congress,1892
-Q15856582,Al-Hilal,Egypt,Gemeinsame Bibliothek des Centrums für Religionsbezogene Studien (CRS) und des Zentrums für Islamische Theologie (ZIT),1892
 Q15856582,Al-Hilal,Egypt,School of Oriental and African Studies Library,1892
-Q15856582,Al-Hilal,Egypt,Oriental Library,1892
-Q15856582,Al-Hilal,Egypt,University Library of Tübingen,1892
+Q15856582,Al-Hilal,Egypt,Gemeinsame Bibliothek des Centrums für Religionsbezogene Studien (CRS) und des Zentrums für Islamische Theologie (ZIT),1892
+Q15856582,Al-Hilal,Egypt,Bamberg University Library,1892
 Q15856582,Al-Hilal,Egypt,Marburg University Library,1892
 Q15856582,Al-Hilal,Egypt,Hamburg State and University Library Carl von Ossietzky,1892
 Q15856582,Al-Hilal,Egypt,State Library of Berlin (Haus Unter den Linden),1892
 Q15856582,Al-Hilal,Egypt,Orient-Institut Beirut,1892
-Q15856582,Al-Hilal,Egypt,Bamberg University Library,1892
 Q15856582,Al-Hilal,Egypt,National Library of Israel,1892
+Q15856582,Al-Hilal,Egypt,University Library of Tübingen,1892
 Q15856582,Al-Hilal,Egypt,British Library,1892
 Q15856582,Al-Hilal,Egypt,University of Virginia,1892
-Q15856582,Al-Hilal,Egypt,"Philosophisch-Theologische Hochschule Sankt Georgen, library",1892
 Q15856582,Al-Hilal,Egypt,Bavarian State Library,1892
+Q15856582,Al-Hilal,Egypt,"Philosophisch-Theologische Hochschule Sankt Georgen, library",1892
 Q15856582,Al-Hilal,Egypt,University Library of Freie Universität Berlin,1892
-Q15856582,Al-Hilal,Egypt,University of Michigan Library,1892
-Q15856582,Al-Hilal,Egypt,Ohio State University Libraries,1892
-Q15856582,Al-Hilal,Egypt,Cornell University Library,1892
-Q15856582,Al-Hilal,Egypt,Bibliotheca Alexandrina,1892
-Q15856582,Al-Hilal,Egypt,Bodleian Library,1892
+Q15856582,Al-Hilal,Egypt,Glasgow University Library,1892
 Q15856582,Al-Hilal,Egypt,University of Washington Libraries,1892
 Q15856582,Al-Hilal,Egypt,University of Minnesota Libraries,1892
+Q15856582,Al-Hilal,Egypt,Bodleian Library,1892
+Q15856582,Al-Hilal,Egypt,University of Michigan Library,1892
+Q15856582,Al-Hilal,Egypt,Bibliotheca Alexandrina,1892
+Q15856582,Al-Hilal,Egypt,Cornell University Library,1892
 Q15856582,Al-Hilal,Egypt,Durham University Library and Collections,1892
-Q15856582,Al-Hilal,Egypt,Harvard Library,1892
-Q15856582,Al-Hilal,Egypt,Internet Archive,1892
 Q15856582,Al-Hilal,Egypt,Exeter University Library,1892
 Q15856582,Al-Hilal,Egypt,National Library of Jordan,1892
-Q15856582,Al-Hilal,Egypt,Glasgow University Library,1892
-Q15856582,Al-Hilal,Egypt,Göttingen State and University Library,1892
+Q15856582,Al-Hilal,Egypt,Harvard Library,1892
 Q15856582,Al-Hilal,Egypt,University of Texas Libraries,1892
+Q15856582,Al-Hilal,Egypt,Göttingen State and University Library,1892
+Q15856582,Al-Hilal,Egypt,Internet Archive,1892
+Q15856582,Al-Hilal,Egypt,Ohio State University Libraries,1892
 Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,Nami Jafet Memorial Library,1915
-Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,Holy Spirit University of Kaslik,1915
 Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1915
+Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,Holy Spirit University of Kaslik,1915
 Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,Bavarian State Library,1915
 Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,Orient-Institut Beirut,1915
 Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,University of Jordan Library,1915
 Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,Harvard Library,1915
-Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,Internet Archive,1915
 Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,The American University in Cairo,1915
+Q16127703,al-Laṭāʾif al-Muṣawwara,Egypt,Internet Archive,1915
 Q16154071,Al-Fatat,Egypt,Nami Jafet Memorial Library,1892
-Q16154071,Al-Fatat,Egypt,Egyptian National Library and Archives,1892
 Q16154071,Al-Fatat,Egypt,Bibliothèque nationale de France,1892
+Q16154071,Al-Fatat,Egypt,Egyptian National Library and Archives,1892
 Q16154071,Al-Fatat,Egypt,University of Chicago Library,1892
 Q1616056,Hestia Tapestry,Egypt,Dumbarton Oaks,525
 Q17174657,Tripod base with three lion figurines,Achaemenid Empire,Museum of Ancient Iran,
 Q17354795,Standard of Cyrus the Great,Achaemenid Empire,Museum of Ancient Iran,
-Q17521078,Ad-Diya,Egypt,Library of the Arab World Institute,1898
+Q17521078,Ad-Diya,Egypt,Oriental Library,1898
 Q17521078,Ad-Diya,Egypt,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1898
 Q17521078,Ad-Diya,Egypt,School of Oriental and African Studies Library,1898
-Q17521078,Ad-Diya,Egypt,Oriental Library,1898
-Q17521078,Ad-Diya,Egypt,Nami Jafet Memorial Library,1898
 Q17521078,Ad-Diya,Egypt,"Middle East Centre Library, St Antony's College, Oxford",1898
+Q17521078,Ad-Diya,Egypt,Nami Jafet Memorial Library,1898
+Q17521078,Ad-Diya,Egypt,Library of the Arab World Institute,1898
 Q17521078,Ad-Diya,Egypt,Orient-Institut Beirut,1898
 Q17521078,Ad-Diya,Egypt,Egyptian National Library and Archives,1898
 Q17521078,Ad-Diya,Egypt,University of Washington Libraries,1898
 Q17521078,Ad-Diya,Egypt,University of Michigan Library,1898
-Q17521078,Ad-Diya,Egypt,Internet Archive,1898
-Q17521078,Ad-Diya,Egypt,Ohio State University Libraries,1898
-Q17521078,Ad-Diya,Egypt,Harvard Library,1898
 Q17521078,Ad-Diya,Egypt,University of Chicago Library,1898
+Q17521078,Ad-Diya,Egypt,Ohio State University Libraries,1898
+Q17521078,Ad-Diya,Egypt,Internet Archive,1898
+Q17521078,Ad-Diya,Egypt,Harvard Library,1898
 Q17521078,Ad-Diya,Egypt,Durham University Library and Collections,1898
 Q20201026,Paschal Candlestick,Crown of Castile,Metropolitan Museum of Art,1450
 Q20268765,Study from Life,Khedivate of Egypt,Art Institute of Chicago,1891
@@ -807,64 +807,64 @@ Q21057254,Muharrir,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State 
 Q21057254,Muharrir,Ottoman Empire,University Library of Tübingen,1876
 Q21100575,Papyrus Berlin 13296,Egypt,Berlin Papyrus Collection,
 Q213540,Rhind Mathematical Papyrus,Ancient Egypt,British Library,
-Q21605653,Al-Bayan (journal),Egypt,Alsharekh Archive,1897
-Q21605653,Al-Bayan (journal),Egypt,Nami Jafet Memorial Library,1897
 Q21605653,Al-Bayan (journal),Egypt,"Middle East Centre Library, St Antony's College, Oxford",1897
+Q21605653,Al-Bayan (journal),Egypt,Nami Jafet Memorial Library,1897
+Q21605653,Al-Bayan (journal),Egypt,Alsharekh Archive,1897
 Q21605653,Al-Bayan (journal),Egypt,School of Oriental and African Studies Library,1897
 Q21605653,Al-Bayan (journal),Egypt,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1897
 Q21605653,Al-Bayan (journal),Egypt,Egyptian National Library and Archives,1897
 Q21605653,Al-Bayan (journal),Egypt,Bibliothèque nationale de France,1897
-Q21605653,Al-Bayan (journal),Egypt,Indiana University Libraries,1897
-Q21605653,Al-Bayan (journal),Egypt,University of Michigan Library,1897
-Q21605653,Al-Bayan (journal),Egypt,University of Minnesota Libraries,1897
 Q21605653,Al-Bayan (journal),Egypt,University of Washington Libraries,1897
+Q21605653,Al-Bayan (journal),Egypt,University of Minnesota Libraries,1897
+Q21605653,Al-Bayan (journal),Egypt,University of Michigan Library,1897
 Q21605653,Al-Bayan (journal),Egypt,Internet Archive,1897
+Q21605653,Al-Bayan (journal),Egypt,Indiana University Libraries,1897
+Q22018602,Az-Zuhur,Egypt,Oriental Library,1910
 Q22018602,Az-Zuhur,Egypt,"University of California, Berkeley",1910
 Q22018602,Az-Zuhur,Egypt,Library of the Arab World Institute,1910
 Q22018602,Az-Zuhur,Egypt,Nami Jafet Memorial Library,1910
-Q22018602,Az-Zuhur,Egypt,Oriental Library,1910
 Q22018602,Az-Zuhur,Egypt,Alsharekh Archive,1910
 Q22018602,Az-Zuhur,Egypt,Orient-Institut Beirut,1910
 Q22018602,Az-Zuhur,Egypt,Bamberg University Library,1910
 Q22018602,Az-Zuhur,Egypt,Marburg University Library,1910
-Q22018602,Az-Zuhur,Egypt,University Library of Tübingen,1910
 Q22018602,Az-Zuhur,Egypt,Bavarian State Library,1910
 Q22018602,Az-Zuhur,Egypt,National Library of Israel,1910
-Q22018602,Az-Zuhur,Egypt,Indiana University Libraries,1910
-Q22018602,Az-Zuhur,Egypt,Exeter University Library,1910
-Q22018602,Az-Zuhur,Egypt,University of Chicago Library,1910
-Q22018602,Az-Zuhur,Egypt,Leipzig University Library,1910
+Q22018602,Az-Zuhur,Egypt,University Library of Tübingen,1910
 Q22018602,Az-Zuhur,Egypt,University of Washington Libraries,1910
+Q22018602,Az-Zuhur,Egypt,Leipzig University Library,1910
+Q22018602,Az-Zuhur,Egypt,University of Chicago Library,1910
 Q22018602,Az-Zuhur,Egypt,Internet Archive,1910
-Q22018602,Az-Zuhur,Egypt,Princeton University Library,1910
-Q22018602,Az-Zuhur,Egypt,Cornell University Library,1910
 Q22018602,Az-Zuhur,Egypt,Harvard Library,1910
+Q22018602,Az-Zuhur,Egypt,Cornell University Library,1910
+Q22018602,Az-Zuhur,Egypt,Exeter University Library,1910
+Q22018602,Az-Zuhur,Egypt,Princeton University Library,1910
+Q22018602,Az-Zuhur,Egypt,Indiana University Libraries,1910
 Q22018602,Az-Zuhur,Egypt,Ohio State University Libraries,1910
 Q2392618,Tanin,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1908
 Q25388380,Papyrus Chester Beatty IV,Roman Egypt,Chester Beatty Library,400
 Q25388383,Papyrus Chester Beatty V (Rahlfs 962; CBL BP V),Roman Egypt,Chester Beatty Library,300
-Q25393542,Papyrus Chester Beatty VI,Roman Egypt,University of Michigan Library,150
 Q25393542,Papyrus Chester Beatty VI,Roman Egypt,Chester Beatty Library,150
+Q25393542,Papyrus Chester Beatty VI,Roman Egypt,University of Michigan Library,150
 Q25415445,Saint Anne,Sudan,National Museum in Warsaw,701
 Q26711925,Nenufar-shaped calice-E 11349,Ancient Egypt,Department of Egyptian Antiquities of the Louvre,-83
 Q27715674,Cahiers des religions africaines,Democratic Republic of the Congo,"KADOC  Documentatie- en Onderzoekscentrum voor religie, cultuur en samenleving",1967
-Q286468,Al-Ahram,Egypt,"Universität Freiburg, Orientalisches Seminar, Bibliothek",1876
-Q286468,Al-Ahram,Egypt,Nami Jafet Memorial Library,1876
-Q286468,Al-Ahram,Egypt,"Presse- und Informationsamt der Bundesregierung, Zentrales Dokumentationssystem, Pressearchiv / Bibliothek",1876
-Q286468,Al-Ahram,Egypt,State and University Library Bremen,1876
 Q286468,Al-Ahram,Egypt,Berlin State Library,1876
-Q286468,Al-Ahram,Egypt,"Humboldt-Universität zu Berlin, Universitätsbibliothek, Zweigbibliothek Campus Nord",1876
 Q286468,Al-Ahram,Egypt,"Universität Mainz, Bibliotheksbereich Georg Forster-Gebäude / Geographie und Geowissenschaften",1876
-Q286468,Al-Ahram,Egypt,School of Oriental and African Studies Library,1876
-Q286468,Al-Ahram,Egypt,Holy Spirit University of Kaslik,1876
+Q286468,Al-Ahram,Egypt,Nami Jafet Memorial Library,1876
+Q286468,Al-Ahram,Egypt,"Universität Freiburg, Orientalisches Seminar, Bibliothek",1876
 Q286468,Al-Ahram,Egypt,Library of Congress,1876
+Q286468,Al-Ahram,Egypt,School of Oriental and African Studies Library,1876
+Q286468,Al-Ahram,Egypt,State and University Library Bremen,1876
+Q286468,Al-Ahram,Egypt,"Presse- und Informationsamt der Bundesregierung, Zentrales Dokumentationssystem, Pressearchiv / Bibliothek",1876
+Q286468,Al-Ahram,Egypt,"Humboldt-Universität zu Berlin, Universitätsbibliothek, Zweigbibliothek Campus Nord",1876
+Q286468,Al-Ahram,Egypt,Holy Spirit University of Kaslik,1876
 Q286468,Al-Ahram,Egypt,Federal Archives Library,1876
 Q286468,Al-Ahram,Egypt,Egyptian National Library and Archives,1876
 Q286468,Al-Ahram,Egypt,Hamburg State and University Library Carl von Ossietzky,1876
 Q286468,Al-Ahram,Egypt,British Library,1876
-Q286468,Al-Ahram,Egypt,National Library of Israel,1876
 Q286468,Al-Ahram,Egypt,State Library of Berlin (Haus Unter den Linden),1876
 Q286468,Al-Ahram,Egypt,University Library Freiberg,1876
+Q286468,Al-Ahram,Egypt,National Library of Israel,1876
 Q286468,Al-Ahram,Egypt,National Library of the Kingdom of Morocco,1876
 Q286468,Al-Ahram,Egypt,National Library of Algeria,1876
 Q286468,Al-Ahram,Egypt,State Library of Berlin (Westhafenspeicher),1876
@@ -873,14 +873,14 @@ Q286468,Al-Ahram,Egypt,Orient-Institut Beirut,1876
 Q286468,Al-Ahram,Egypt,University Library of Freie Universität Berlin,1876
 Q286468,Al-Ahram,Egypt,Bibliothèque nationale de France,1876
 Q286468,Al-Ahram,Egypt,University Library of Tübingen,1876
-Q286468,Al-Ahram,Egypt,The American University in Cairo,1876
 Q286468,Al-Ahram,Egypt,University of Chicago Library,1876
-Q286468,Al-Ahram,Egypt,Harvard Library,1876
-Q286468,Al-Ahram,Egypt,Internet Archive,1876
-Q286468,Al-Ahram,Egypt,University Library Johann Christian Senckenberg,1876
 Q286468,Al-Ahram,Egypt,Leipzig University Library,1876
+Q286468,Al-Ahram,Egypt,University Library Johann Christian Senckenberg,1876
+Q286468,Al-Ahram,Egypt,The American University in Cairo,1876
 Q286468,Al-Ahram,Egypt,University of Washington Libraries,1876
+Q286468,Al-Ahram,Egypt,Harvard Library,1876
 Q286468,Al-Ahram,Egypt,Bibliotheca Alexandrina,1876
+Q286468,Al-Ahram,Egypt,Internet Archive,1876
 Q286468,Al-Ahram,Egypt,ZBW - Leibniz Information Centre for Economics,1876
 Q28670008,Sarcophagus of Harkhebit,Egypt,Metropolitan Museum of Art,-58
 Q28738118,Asie usu cult figure,Ivory Coast,Musée du quai Branly,1900
@@ -905,7 +905,7 @@ Q29385116,Ewer with a Feline-Shaped Handle,Umayyad Caliphate,Metropolitan Museum
 Q29385130,Fragment of a Kaftan Back,Ottoman Empire,Metropolitan Museum of Art,1550
 Q29385132,Fragmentary Loom Width with Wavy-vine Pattern,Ottoman Empire,Metropolitan Museum of Art,1572
 Q29385134,Fragment,Ottoman Empire,Metropolitan Museum of Art,1550
-Q29385173,Bowl with Eagle,Fatimid Caliphate,Metropolitan Museum of Art,1000
+Q29385173,Bowl with Eagle,Egypt,Metropolitan Museum of Art,1000
 Q29385191,Khusrau and Shirin,Ottoman Empire,Metropolitan Museum of Art,1490
 Q29385193,The 'Simonetti' Carpet,Mamluk Sultanate of Egypt,Metropolitan Museum of Art,1500
 Q29385195,Damascus Room,Ottoman Empire,Metropolitan Museum of Art,1707
@@ -1017,18 +1017,18 @@ Q29385965,Stelophorous Statue of Bay,Egypt,Metropolitan Museum of Art,-127
 Q29385968,"Head of a goddess, probably Mut, for attachment to a processional barque (?)",Egypt,Metropolitan Museum of Art,-69
 Q29385970,Ptah Statue,Egypt,Metropolitan Museum of Art,-106
 Q29385972,"Kushite priest wearing garment with leopard's head and tassels, subsequently adapted for a king",Egypt,Metropolitan Museum of Art,-71
-Q2997010,Blue Qur'an,Fatimid Caliphate,Museum of Islamic Art,1000
-Q2997010,Blue Qur'an,Fatimid Caliphate,Islamic art collections in the Bardo National Museum,1000
-Q2997010,Blue Qur'an,Fatimid Caliphate,Los Angeles County Museum of Art,1000
 Q2997010,Blue Qur'an,Fatimid Caliphate,Metropolitan Museum of Art,1000
-Q2997010,Blue Qur'an,Fatimid Caliphate,Chester Beatty Library,1000
-Q2997010,Blue Qur'an,Fatimid Caliphate,Brooklyn Museum,1000
+Q2997010,Blue Qur'an,Fatimid Caliphate,Islamic art collections in the Bardo National Museum,1000
+Q2997010,Blue Qur'an,Fatimid Caliphate,Museum of Islamic Art,1000
+Q2997010,Blue Qur'an,Fatimid Caliphate,Los Angeles County Museum of Art,1000
 Q2997010,Blue Qur'an,Fatimid Caliphate,Nasser D. Khalili Collection of Islamic Art,1000
 Q2997010,Blue Qur'an,Fatimid Caliphate,Raqqada National Museum of Islamic Art,1000
+Q2997010,Blue Qur'an,Fatimid Caliphate,Chester Beatty Library,1000
+Q2997010,Blue Qur'an,Fatimid Caliphate,Brooklyn Museum,1000
 Q31202718,Ottoman cavalry shield,Ottoman Empire,Cabinet of curiosities of Bibliothèque Sainte Geneviève,1700
 Q31837188,Hair Comb Decorated with Rows of Wild Animals,Egypt,Metropolitan Museum of Art,-315
-Q3186971,Official Gazette of the Republic of Tunisia,Tunisia,Nami Jafet Memorial Library,1860
 Q3186971,Official Gazette of the Republic of Tunisia,Tunisia,Arshīf ʿĀmm al-Ḥukūma,1860
+Q3186971,Official Gazette of the Republic of Tunisia,Tunisia,Nami Jafet Memorial Library,1860
 Q3186971,Official Gazette of the Republic of Tunisia,Tunisia,Bibliothèque nationale de France,1860
 Q3186971,Official Gazette of the Republic of Tunisia,Tunisia,British Library,1860
 Q3186971,Official Gazette of the Republic of Tunisia,Tunisia,National Library of Tunisia,1860
@@ -1042,10 +1042,10 @@ Q3482344,Shirley Adams,South Africa,Museum of Modern Art,
 Q3625296,Waiting for Happiness,Mauritania,Museum of Modern Art,
 Q3894875,Milan Papyrus,Alexandria,University of Milan,-30
 Q40965771,Cretans Bringing Gifts,Egypt,Metropolitan Museum of Art,
-Q4118576,Al-Musawar,Egypt,"Universität Freiburg, Orientalisches Seminar, Bibliothek",1924
 Q4118576,Al-Musawar,Egypt,"Universitäts- und Landesbibliothek Sachsen-Anhalt, Zweigbibliothek Vorderer Orient / Ethnologie",1924
-Q4118576,Al-Musawar,Egypt,Nami Jafet Memorial Library,1924
 Q4118576,Al-Musawar,Egypt,"University of California, Berkeley",1924
+Q4118576,Al-Musawar,Egypt,"Universität Freiburg, Orientalisches Seminar, Bibliothek",1924
+Q4118576,Al-Musawar,Egypt,Nami Jafet Memorial Library,1924
 Q4118576,Al-Musawar,Egypt,Orient-Institut Beirut,1924
 Q4118576,Al-Musawar,Egypt,Bavarian State Library,1924
 Q4118576,Al-Musawar,Egypt,University Library of Tübingen,1924
@@ -1061,8 +1061,8 @@ Q4118576,Al-Musawar,Egypt,University of Michigan Library,1924
 Q4118576,Al-Musawar,Egypt,The American University in Cairo,1924
 Q4118576,Al-Musawar,Egypt,University of Washington Libraries,1924
 Q41870252,pyramidion of Iufaa,Egypt,Metropolitan Museum of Art,-60
-Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,Nami Jafet Memorial Library,1926
 Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,"Universität Freiburg, Orientalisches Seminar, Bibliothek",1926
+Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,Nami Jafet Memorial Library,1926
 Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,Bamberg University Library,1926
 Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,National Library of Israel,1926
 Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,Egyptian National Library and Archives,1926
@@ -1072,31 +1072,31 @@ Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,University Library of Tübingen,1926
 Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,Orient-Institut Beirut,1926
 Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,Bodleian Library,1926
 Q43032686,al-Siyāsa al-Usbūʿiyya,Egypt,Ohio State University Libraries,1926
-Q4702597,al-Jāmiʿa,Egypt,School of Oriental and African Studies Library,1899
-Q4702597,al-Jāmiʿa,Egypt,Oriental Library,1899
 Q4702597,al-Jāmiʿa,Egypt,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1899
+Q4702597,al-Jāmiʿa,Egypt,Oriental Library,1899
+Q4702597,al-Jāmiʿa,Egypt,School of Oriental and African Studies Library,1899
 Q4702597,al-Jāmiʿa,Egypt,Egyptian National Library and Archives,1899
 Q4702597,al-Jāmiʿa,Egypt,Bibliothèque nationale de France,1899
 Q4702597,al-Jāmiʿa,Egypt,National Library of Israel,1899
 Q4702597,al-Jāmiʿa,Egypt,Orient-Institut Beirut,1899
 Q4702597,al-Jāmiʿa,Egypt,University of Washington Libraries,1899
-Q4702794,Al-Manar,Egypt,Oriental Library,1898
-Q4702794,Al-Manar,Egypt,"Middle East Centre Library, St Antony's College, Oxford",1898
-Q4702794,Al-Manar,Egypt,Cambridge University Library,1898
 Q4702794,Al-Manar,Egypt,Alsharekh Archive,1898
 Q4702794,Al-Manar,Egypt,Berlin State Library,1898
-Q4702794,Al-Manar,Egypt,School of Oriental and African Studies Library,1898
+Q4702794,Al-Manar,Egypt,"Middle East Centre Library, St Antony's College, Oxford",1898
 Q4702794,Al-Manar,Egypt,Nami Jafet Memorial Library,1898
+Q4702794,Al-Manar,Egypt,Oriental Library,1898
+Q4702794,Al-Manar,Egypt,School of Oriental and African Studies Library,1898
+Q4702794,Al-Manar,Egypt,Cambridge University Library,1898
 Q4702794,Al-Manar,Egypt,Bibliothèque nationale de France,1898
 Q4702794,Al-Manar,Egypt,Egyptian National Library and Archives,1898
 Q4702794,Al-Manar,Egypt,Orient-Institut Beirut,1898
 Q4702794,Al-Manar,Egypt,National Library of Israel,1898
-Q4702794,Al-Manar,Egypt,Durham University Library and Collections,1898
-Q4702794,Al-Manar,Egypt,Beyazıt State Library,1898
 Q4702794,Al-Manar,Egypt,University of Chicago Library,1898
+Q4702794,Al-Manar,Egypt,Durham University Library and Collections,1898
 Q4702794,Al-Manar,Egypt,Harvard Library,1898
-Q4702794,Al-Manar,Egypt,İstanbul University Central Library,1898
 Q4702794,Al-Manar,Egypt,Princeton University Library,1898
+Q4702794,Al-Manar,Egypt,Beyazıt State Library,1898
+Q4702794,Al-Manar,Egypt,İstanbul University Central Library,1898
 Q4858250,Barakat!,Algeria,Museum of Modern Art,
 Q52046050,Cobra Head,Egypt,Metropolitan Museum of Art,-135
 Q52046217,Coffin for a mummified shrewmouse,Egypt,Metropolitan Museum of Art,
@@ -1148,8 +1148,8 @@ Q6050173,Diyojen,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Li
 Q6050173,Diyojen,Ottoman Empire,University Library of Tübingen,1870
 Q60578577,al-Balāgh al-Usbūʿī,Egypt,British Library,1926
 Q60578577,al-Balāgh al-Usbūʿī,Egypt,University Library of Tübingen,1926
-Q60578577,al-Balāgh al-Usbūʿī,Egypt,Center for Research Libraries,1926
 Q60578577,al-Balāgh al-Usbūʿī,Egypt,Internet Archive,1926
+Q60578577,al-Balāgh al-Usbūʿī,Egypt,Center for Research Libraries,1926
 Q60659521,An astrolabe with a rete decorated with circus figures,Ayyubid Sultanate,Germanisches Nationalmuseum,1184
 Q60659642,An astrolabe with Arabic and Coptic inscriptions,Mamluk Sultanate of Egypt,Turkish and Islamic Arts Museum,1282
 Q6067313,Volkan,Ottoman Empire,"Hakkı Tarık Us Collection of Beyazit State Library, Istanbul",1908
@@ -1421,15 +1421,15 @@ Q65088634,Foreign prisoner-E 7691 A,Ancient Egypt,Department of Egyptian Antiqui
 Q65095504,Foreign prisoner-E 7691 B,Ancient Egypt,Department of Egyptian Antiquities of the Louvre,-120
 Q65095527,Foreign prisoner-E 7691 C,Ancient Egypt,Department of Egyptian Antiquities of the Louvre,-120
 Q65095536,Foreign prisoner,Ancient Egypt,Department of Egyptian Antiquities of the Louvre,-120
-Q65563187,Al-Jinan,Ottoman Empire,Institut national des langues et civilisations orientales,1870
-Q65563187,Al-Jinan,Ottoman Empire,"Freie Universität Berlin, Library of the Seminar für Semitistik und Arabistik",1870
-Q65563187,Al-Jinan,Ottoman Empire,Cambridge University Library,1870
-Q65563187,Al-Jinan,Ottoman Empire,"Middle East Centre Library, St Antony's College, Oxford",1870
-Q65563187,Al-Jinan,Ottoman Empire,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1870
-Q65563187,Al-Jinan,Ottoman Empire,Oriental Library,1870
 Q65563187,Al-Jinan,Ottoman Empire,Library of the Arab World Institute,1870
 Q65563187,Al-Jinan,Ottoman Empire,Nami Jafet Memorial Library,1870
+Q65563187,Al-Jinan,Ottoman Empire,"Freie Universität Berlin, Library of the Seminar für Semitistik und Arabistik",1870
+Q65563187,Al-Jinan,Ottoman Empire,Cambridge University Library,1870
+Q65563187,Al-Jinan,Ottoman Empire,Oriental Library,1870
+Q65563187,Al-Jinan,Ottoman Empire,"Universität Bonn, Institut für Orient- und Asienwissenschaften, Bibliothek",1870
+Q65563187,Al-Jinan,Ottoman Empire,"Middle East Centre Library, St Antony's College, Oxford",1870
 Q65563187,Al-Jinan,Ottoman Empire,Berlin State Library,1870
+Q65563187,Al-Jinan,Ottoman Empire,Institut national des langues et civilisations orientales,1870
 Q65563187,Al-Jinan,Ottoman Empire,National Library of Israel,1870
 Q65563187,Al-Jinan,Ottoman Empire,Egyptian National Library and Archives,1870
 Q65563187,Al-Jinan,Ottoman Empire,Lebanese National Library,1870

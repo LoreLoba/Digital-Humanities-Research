@@ -57,7 +57,7 @@ A group that finds no significant difference and says so clearly scores better t
 | 09 | African films on Wikidata | one film with an African country of origin | 5,582 | African cinema, knowledge-base coverage |
 | 10 | African-origin objects in museum collections | one object, in one museum collection | 1,928 | museums, restitution, cultural property |
 | 11 | UNESCO World Heritage sites in Africa | one inscribed World Heritage site | 115 | heritage, conservation, international policy |
-| 12 | Digital humanities research from African institutions | one publication with at least one African institutional affiliation | 3,500 | the DH field itself, bibliometrics, open access |
+| 12 | Digital humanities research from African institutions | one publication with at least one African institutional affiliation | 3,501 | the DH field itself, bibliometrics, open access |
 | 13 | Wikipedia attention to African writers | one writer in one month | 750 | reception, attention, literary celebrity |
 | 06 | Geographic Locations in English-Language Literature, 1701-2011 *(download it yourselves)* | a place mentioned in a literary volume | — | literary geography, place and text |
 

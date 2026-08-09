@@ -5,7 +5,7 @@
 A 2022 survey of humanities researchers about how they manage, store and share research data. Rich in categorical answers and free text, which makes it the best dataset in the pack for cross-tabulation and for coding open-ended responses by hand.
 
 - **Rows:** 372
-- **Columns:** 22 (22 of 115 source columns)
+- **Columns:** 18 (22 of 115 source columns)
 - **Source:** [Figshare — STM humanities subgroup survey 2022](https://figshare.com/articles/dataset/21207239)
 - **Licence:** CC BY 4.0
 - **Attribution:** STM Association humanities subgroup (2022), via Figshare. CC BY 4.0.
@@ -32,17 +32,14 @@ A 2022 survey of humanities researchers about how they manage, store and share r
 | `are_you_aware_of_the_concept_of_a_data_management_plan` | text | Are you aware of the concept of a data management plan | 22.3 | 4 | Response |
 | `have_you_ever_completed_a_data_management_plan_for_a_project` | text | Have you ever completed a data management plan for a project | 22.6 | 4 | Response |
 | `do_you_have_access_to_funds_to_help_with_any_costs_involved_in_research_data_management_for_example_long_term_preservation_or_curation` | text | Do you have access to funds to help with any costs involved in research data management for example long term preservation or curation | 22.3 | 4 | Response |
-| `what_are_the_biggest_challenges_you_have_in_planning_the_research_data_considerations_of_a_new_research_project_please_select_all_that_apply` | text | What are the biggest challenges you have in planning the research data considerations of a new research project please select all that apply | 69.9 | 1 | Lack of training/support |
-| `unnamed_24` | text | Unnamed 24 | 57.3 | 1 | Lack of funding |
 | `do_you_generate_your_own_research_data_in_the_course_of_your_research_practice` | text | Do you generate your own research data in the course of your research practice | 26.6 | 4 | Response |
-| `what_tools_equipment_have_you_used_to_capture_research_data_select_all_that_apply` | text | What tools equipment have you used to capture research data select all that apply | 54.0 | 1 | Physical notebooks |
-| `unnamed_29` | text | Unnamed 29 | 55.4 | 1 | Electronic lab/notebooks |
 
 ## What was done to the source data
 
 - Column headers (long question text) normalised to snake_case.
 - Kept 22 columns answered by more than a quarter of respondents; the rest were near-empty and would only add noise.
 - Rows that were entirely blank removed.
+- Dropped columns carrying no information: `what_are_the_biggest_challenges_you_have_in_planning_the_research_data_considerations_of_a_new_research_project_please_select_all_that_apply` (one value for every row: 'Lack of training/support'); `unnamed_24` (one value for every row: 'Lack of funding'); `what_tools_equipment_have_you_used_to_capture_research_data_select_all_that_apply` (one value for every row: 'Physical notebooks'); `unnamed_29` (one value for every row: 'Electronic lab/notebooks').
 
 ## Known limits
 

@@ -17,17 +17,17 @@ See [ASSIGNMENT.md](ASSIGNMENT.md) for the shared task and the marking guide.
 
 | # | Dataset | One row is | Rows | Cols | Licence |
 |---|---|---|---:|---:|---|
-| 01 | [Humanities researchers on research data management](datasets/01_humanities_rdm_survey/) | one survey response from a humanities researcher | 372 | 22 | CC BY 4.0 |
+| 01 | [Humanities researchers on research data management](datasets/01_humanities_rdm_survey/) | one survey response from a humanities researcher | 372 | 18 | CC BY 4.0 |
 | 02 | [Bechdel test results for 1,794 films](datasets/02_bechdel_films/) | one film | 1,794 | 11 | CC BY 4.0 |
 | 03 | [Knoedler stock books — the New York art market](datasets/03_getty_knoedler/) | one transaction recorded in the Knoedler gallery stock books | 40,253 | 14 | CC0 1.0 Universal (public domain dedication) |
 | 04 | [US public libraries — staffing, funding and use](datasets/04_imls_public_libraries/) | one public library system in the 2020 financial year | 9,245 | 20 | US Government public domain |
-| 05 | [Journal of Open Humanities Data — every paper](datasets/05_johd_dataset_papers/) | one data paper published in JOHD | 365 | 9 | Crossref metadata — CC0 |
+| 05 | [Journal of Open Humanities Data — every paper](datasets/05_johd_dataset_papers/) | one data paper published in JOHD | 365 | 6 | Crossref metadata — CC0 |
 | 07 | [Trans-Atlantic slave trade — voyages](datasets/07_slave_voyages/) | one recorded slaving voyage | 36,110 | 9 | SlaveVoyages data, redistributed via TidyTuesday for teaching |
 | 08 | [African languages — Glottolog](datasets/08_african_languages/) | one language or dialect spoken in Africa | 8,037 | 10 | CC BY 4.0 |
 | 09 | [African films on Wikidata](datasets/09_african_films/) | one film with an African country of origin | 5,582 | 6 | CC0 1.0 (Wikidata) |
 | 10 | [African-origin objects in museum collections](datasets/10_african_artworks_in_museums/) | one object, in one museum collection | 1,928 | 5 | CC0 1.0 (Wikidata) |
-| 11 | [UNESCO World Heritage sites in Africa](datasets/11_unesco_heritage_africa/) | one inscribed World Heritage site | 115 | 12 | © UNESCO World Heritage Centre — used for teaching with attribution |
-| 12 | [Digital humanities research from African institutions](datasets/12_african_dh_scholarship/) | one publication with at least one African institutional affiliation | 3,500 | 9 | CC0 1.0 (OpenAlex) |
+| 11 | [UNESCO World Heritage sites in Africa](datasets/11_unesco_heritage_africa/) | one inscribed World Heritage site | 115 | 10 | © UNESCO World Heritage Centre — used for teaching with attribution |
+| 12 | [Digital humanities research from African institutions](datasets/12_african_dh_scholarship/) | one publication with at least one African institutional affiliation | 3,501 | 9 | CC0 1.0 (OpenAlex) |
 | 13 | [Wikipedia attention to African writers](datasets/13_wikipedia_reception_african_writers/) | one writer in one month | 750 | 5 | CC0 1.0 (Wikimedia analytics) |
 | 06 | [Geographic Locations in English-Language Literature, 1701-2011](https://wiki.htrc.illinois.edu/display/COM/Geographic+Locations+in+English-Language+Literature%2C+1701-2011) — *link only* | a place mentioned in a literary volume | — | — | not redistributed |
 

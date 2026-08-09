@@ -1,6 +1,6 @@
 # Group brief — Humanities researchers on research data management
 
-**Your dataset:** `data.csv` / `data.xlsx` — 372 rows, 22 columns.
+**Your dataset:** `data.csv` / `data.xlsx` — 372 rows, 18 columns.
 **One row is** one survey response from a humanities researcher.
 
 A 2022 survey of humanities researchers about how they manage, store and share research data. Rich in categorical answers and free text, which makes it the best dataset in the pack for cross-tabulation and for coding open-ended responses by hand.

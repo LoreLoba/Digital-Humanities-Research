@@ -1,6 +1,6 @@
 # Group brief — Digital humanities research from African institutions
 
-**Your dataset:** `data.csv` / `data.xlsx` — 3,500 rows, 9 columns.
+**Your dataset:** `data.csv` / `data.xlsx` — 3,501 rows, 9 columns.
 **One row is** one publication with at least one African institutional affiliation.
 
 Digital humanities publications indexed by OpenAlex with an African institutional affiliation. A dataset about the field the participants are joining — who publishes DH research on the continent, where, and how openly.

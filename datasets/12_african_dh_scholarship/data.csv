@@ -699,6 +699,7 @@ W3193786184,Systematics of alpha decay half-lives within the position-dependent 
 W3196766075,Management and Orchestration for Network Function Virtualization in a VoIP Testbed: A Multi-domain Case,2021.0,conference-paper,,École Supérieure Multinationale des Télécommunications (SN),2,8,False
 W4205235888,Study of single-photon photoionization of oxygen-like Ne III via the screening constant per unit nuclear charge,2022.0,article,International Journal of Mass Spectrometry,Université de Thiès (SN),1,8,False
 W4226074577,Osmotic Message-Oriented Middleware for Internet of Things,2022.0,article,Computers,Helwan University (EG),3,8,True
+W4381851623,On the solution behavior of a nonlinear time-fractional Klein–Gordon equation: Theoretical study and numerical validation,2023.0,article,Communications in Nonlinear Science and Numerical Simulation,University of Batna 1 (DZ),2,8,False
 W1555432025,Three-body structure of<sup>18</sup>Ne in a microscopic model,2010.0,article,Journal of Physics G Nuclear and Particle Physics,Université Libre de Bruxelles (BE),2,7,True
 W1983554731,Doubly differential and integral cross sections for electron elastic scattering by hydrogen sulfide,2014.0,article,Nuclear Instruments and Methods in Physics Research Section B Beam Interactions with Materials and Atoms,Mouloud Mammeri University of Tizi-Ouzou (DZ),3,7,False
 W2032855102,Thermodynamic Assessment of the Ru-Zr Binary System,2007.0,article,Journal of Phase Equilibria and Diffusion,Université Ibn Zohr (MA),4,7,False
@@ -722,7 +723,6 @@ W3216525713,Trustworthy Cross-Organizational Collaborations with Hybrid On/Off-C
 W4226297871,"A review of the relevance of bottle gourd in Eastern and Southern African traditional music, and social life",2022.0,article,Journal of Medicinal Plants for Economic Development,Mangosuthu University of Technology (ZA),5,7,True
 W4313474016,GENRE-STYLE INNOVATIONS IN THE OEUVRE OF MODERN UKRAINIAN COMPOSERS,2023.0,article,Baltic Journal of Legal and Social Sciences,Pedagogical University (MZ),2,7,True
 W4377193210,A resource orchestration perspective of the link between environmental orientation and green purchasing: Empirical evidence from an emerging economy,2023.0,article,Cogent Business & Management,Kumasi Technical University (GH),4,7,True
-W4381851623,On the solution behavior of a nonlinear time-fractional Klein–Gordon equation: Theoretical study and numerical validation,2023.0,article,Communications in Nonlinear Science and Numerical Simulation,University of Batna 1 (DZ),2,7,False
 W1639492068,Towards Timbre Modeling of Sounds Inside Accelerating Cars,2010.0,conference-paper,Lecture notes in computer science,PSA Peugeot Citroën (France) (FR),5,6,False
 W2002861108,‘Sonic Jihad’: Black popular music and the renegotiation of Muslim identities in Post 9/11,2007.0,article,Muziki,University of South Africa (ZA),1,6,False
 W2016797328,High-field orientational magnetic phase diagrams of the mixed holmium–yttrium iron garnet Ho<sub>0.43</sub>Y<sub>2.57</sub>Fe<sub>5</sub>O<sub>12</sub>,2008.0,article,Journal of Physics Condensed Matter,Mohamed-Cherif Messaadia University (DZ),6,6,True
@@ -959,7 +959,7 @@ W2046397981,Dirac Particle in a Constant Magnetic Field: Path Integral Treatment
 W2060394631,Energy spectra of Hartmann and ring-shaped oscillator potentials using the quantum Hamilton–Jacobi formalism,2013.0,article,Physica Scripta,University of Béjaïa (DZ),2,7,True
 W2061702035,Path integral treatment for a Coulomb system constrained on D-dimensional sphere and hyperboloid,2006.0,article,Annals of Physics,University Frères Mentouri Constantine 1 (DZ),3,7,False
 W2139484234,Positive operator valued measures and the quantum Monty Hall problem,2006.0,article,Anais da Academia Brasileira de Ciências,University of Pretoria (ZA),4,7,True
-W2331941076,Thermodynamic description of the Ni–Yb and Ni–Eu binary systems,2016.0,book-chapter,Journal of Thermal Analysis and Calorimetry,Université Ibn Zohr (MA),3,7,False
+W2331941076,Thermodynamic description of the Ni–Yb and Ni–Eu binary systems,2016.0,article,Journal of Thermal Analysis and Calorimetry,Université Ibn Zohr (MA),3,7,False
 W2770099567,"Romancing the nation, effacing history: reading Kenya through patriotic choral music",2017.0,article,Social Dynamics,Kabarak University (KE),1,7,False
 W2900024147,Anaplastic Pleomorphic Xanthoastrocytoma Presenting with Musical Hallucination,2018.0,article,Case Reports in Neurological Medicine,Reading Hospital (US),5,7,True
 W2904624835,The Discursive Role of Music in African Elections,2018.0,book-chapter,Advances in religious and cultural studies (ARCS) book series,University of Cape Town (ZA),1,7,False
@@ -2176,7 +2176,7 @@ W2529642559,Performers’ Rights and Evolution of Performance in Nigeria,2016.0,
 W2563043559,"Music Notation: A South African GuideLucia, Christine, (2011). <i>Music Notation: A South African Guide</i> . Pretoria: UNISA Press. ISBN: 978-1-86888-568-8. xvii, 318 pp. Figures, index, CD. &lt;www.unisa.ac.za&gt; $32.00",2016.0,book-review,Journal of Musical Arts in Africa,University of Cape Town (ZA),1,1,False
 W2588632944,"Musics of the Free State: Reflections on a musical past, present, and future",2016.0,book-review,Muziki,University of the Witwatersrand (ZA),1,1,False
 W2594631078,Aprendiendo música en el encuentro,2016.0,dissertation,,Canon (Japan) (JP),1,1,True
-W2614056991,"Towards a theory of political art : cultural politics of &apos;Black Wave&apos; film in Yugoslavia, 1963-1972",2014.0,dissertation,Jyväskylä University Digital Archive (University of Jyväskylä),Academy of Arts (EG),1,1,False
+W2614056991,"Towards a theory of political art : cultural politics of &apos;Black Wave&apos; film in Yugoslavia, 1963-1972",2014.0,dissertation,Jyväskylä University Digital Archive (University of Jyväskylä),Academy of Arts (EG),1,1,True
 W2724416431,Nested Semantics over Finite Trees are Equationally Hard,2003.0,article,BRICS Report Series,Danish National Research Foundation (DK),4,1,True
 W2797458508,On Entropy for general quantum systems,2018.0,preprint,arXiv (Cornell University),North-West University (ZA),2,1,True
 W2800953494,e23 Musical therapy as a new strategy for pain in fibromyalgia,2018.0,conference-abstract,Lara D. Veeken,Benha University (EG),1,1,True
@@ -3493,6 +3493,7 @@ W7172270387,Development of an Erhu Traditional Musical Instrument Education Chat
 W7172397889,"GENDER AND MUSIC PERFORMANCE AS A CAREER IN NIGERIA: FEMALE PARTICIPATION, PUBLIC PERCEPTION AND CAREER CHOICE",2026.0,article,Zenodo (CERN European Organization for Nuclear Research),Delta State University (NG),1,0,True
 W7172401794,How does musical instruments relate to social structure and organization? Analysis of musical instruments mirroring social organization and social structure in South Ethiopia,2026.0,article,Ethiopian Journal of Business and Social Science,Arba Minch University (ET),2,0,True
 W7172435823,"GENDER AND MUSIC PERFORMANCE AS A CAREER IN NIGERIA: FEMALE PARTICIPATION, PUBLIC PERCEPTION AND CAREER CHOICE",2026.0,article,Zenodo (CERN European Organization for Nuclear Research),Delta State University (NG),1,0,True
+W7201961681,ONLINE MUSIC AND MOVIES AND NEW TECHNOLOGICAL DEVICES: CHALLENGES CONFRONTING COLLECTING SOCIETIES IN NIGERIA,2016.0,article,ABU Law Journal,University of Jos (NG),3,0,False
 W72156088,Mining Frequent Itemsets: a Formal Unification,2015.0,preprint,arXiv (Cornell University),University of Laghouat (DZ),3,0,True
 W803104811,Jurisdiction in respect of claims of extraterritorial copyright infringement : Gallo Africa v Sting Music : case comments,2011.0,article,SA Mercantile Law Journal = SA Tydskrif vir Handelsreg,University of South Africa (ZA),1,0,False
 W88944231,Query Answering over Disjunctive Datalog with Existential Quantifiers,2013.0,conference-paper,University of Huddersfield Repository (University of Huddersfield),University of Calabar (NG),4,0,True
